@@ -71,6 +71,6 @@ Ferramenta de mapas mentais e flashcards para sala de aula, criada durante o hac
 ### 🔗 Contato
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN"><img src="www.linkedin.com/in/vinicius-oliveira0007style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:seu_email@exemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
