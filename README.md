@@ -55,7 +55,7 @@ Ferramenta de mapas mentais e flashcards para sala de aula, criada durante o hac
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&count_private=true&include_all_commits=true&theme=default" />
 </p>
 
 <p align="center">
