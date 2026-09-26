@@ -31,8 +31,8 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/ViniciusOliveira0007/ViniciusOliveira0007/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=false&order=1" height="40" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/ViniciusOliveira0007/ViniciusOliveira0007/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=true&order=2" height="30" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/ViniciusOliveira0007/ViniciusOliveira0007/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/ViniciusOliveira0007/ViniciusOliveira0007/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://raw.githubusercontent.com/ViniciusOliveira0007/ViniciusOliveira0007/activity-graph-output/activity-graph.svg?radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
@@ -48,12 +48,6 @@
 
 <div data-importer="profile-views" align="center">
   <img data-importer="profile-views" src="https://count.getloli.com/@:ViniciusOliveira0007?theme=3d-num&padding=7&scale=1&align=top&pixelated=0&darkmode=auto"  />
-</div>
-
-###
-
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
 ###
