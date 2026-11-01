@@ -2,7 +2,7 @@
 
 <p align="center">
   Eu sou o Vinicius<br/>
-  Estudante de Ciência de Dados na Fatec Rubens Lara e técnico em Desenvolvimento de Sistemas pela Etec de Itanhaém, direto do litoral sul de São Paulo 🌊<br/>
+  Estudante de Ciência de Dados na Fatec Rubens Lara e técnico em Desenvolvimento de Sistemas pela Etec de Itanhaém, direto do litoral sul de São Paulo <br/>
   Gosto de transformar dados em algo que as pessoas consigam entender e usar. Entre meus projetos estão um sistema de previsão de demanda para restaurante universitário (Python, Streamlit e AWS) e um dashboard com dados públicos de preço de combustíveis.<br/>
   Estou em busca da minha primeira oportunidade como Cientista de Dados júnior, então se curtiu o que viu por aqui, bora trocar uma ideia! 💬
 </p>
