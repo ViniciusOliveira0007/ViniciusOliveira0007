@@ -30,12 +30,6 @@
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/ViniciusOliveira0007/ViniciusOliveira0007/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/ViniciusOliveira0007/ViniciusOliveira0007/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://raw.githubusercontent.com/ViniciusOliveira0007/ViniciusOliveira0007/activity-graph-output/activity-graph.svg?radius=16&theme=github-dark-dimmed&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
-</div>
-
 ###
 
 <picture data-importer="pacman">
