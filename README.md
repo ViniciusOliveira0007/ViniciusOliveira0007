@@ -1,5 +1,12 @@
 <h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
 
+<p align="center">
+  Eu sou o Vinicius, mas pode me chamar de Vini! 🚀<br/>
+  Estudante de Ciência de Dados na Fatec Rubens Lara e técnico em Desenvolvimento de Sistemas pela Etec de Itanhaém, direto do litoral sul de São Paulo 🌊<br/>
+  Gosto de transformar dados em algo que as pessoas consigam entender e usar. Entre meus projetos estão um sistema de previsão de demanda para restaurante universitário (Python, Streamlit e AWS) e um dashboard com dados públicos de preço de combustíveis.<br/>
+  Estou em busca da minha primeira oportunidade como Cientista de Dados júnior, então se curtiu o que viu por aqui, bora trocar uma ideia! 💬
+</p>
+
 ###
 
 <div data-importer="socials" align="right">
@@ -43,5 +50,3 @@
 <div data-importer="profile-views" align="center">
   <img data-importer="profile-views" src="https://count.getloli.com/@:ViniciusOliveira0007?theme=3d-num&padding=7&scale=1&align=top&pixelated=0&darkmode=auto"  />
 </div>
-
-###
