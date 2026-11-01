@@ -1,4 +1,4 @@
-<h1 data-importer="text" align="center">Opa como vai?</h1>
+<h1 data-importer="text" align="center">Opa como vai? 👋</h1>
 
 <p align="center">
   Eu sou o Vinicius, mas pode me chamar de Vini! 🚀<br/>
