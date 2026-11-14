@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/Banner_arvore.gif" alt="Banner" width="100%">
+<img src="assets/8bit_banner.gif" alt="Banner" width="100%">
 
 <br>
 
