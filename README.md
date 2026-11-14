@@ -10,6 +10,7 @@
 
 <a href="https://linkedin.com/in/vinicius-oliveira0007"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logoColor=58A6FF" alt="LinkedIn"></a>
 <a href="https://github.com/ViniciusOliveira0007"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="GitHub"></a>
+<a href="viniciusoliveiraconstantino@gmail.com"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="E-mail"></a>
 
 <br><br>
 
