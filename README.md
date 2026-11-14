@@ -1,58 +1,85 @@
-<h1 align="center">Opa, como vai? 👋</h1>
+<div align="center">
 
-<p align="center">
-  Eu sou o Vinicius<br/>
-  Estudante de Ciência de Dados na Fatec Rubens Lara e técnico em Desenvolvimento de Sistemas pela Etec de Itanhaém, direto do litoral sul de São Paulo<br/>
-  Gosto de transformar dados em algo que as pessoas consigam entender e usar.<br/>
-  Estou em busca da minha primeira oportunidade como Cientista de Dados júnior, então se curtiu o que viu por aqui, bora trocar uma ideia! 💬
-</p>
+<img src="assets/banner.svg" alt="Banner" width="100%">
 
-<div align="right">
-  <a href="https://linkedin.com/in/vinicius-oliveira0007">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn">
-  </a>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=Estudante+de+Ci%C3%AAncia+de+Dados;Python+%7C+Pandas+%7C+Streamlit+%7C+AWS;Buscando+minha+primeira+vaga+j%C3%BAnior" alt="Texto animado">
+
+<br><br>
+
+<a href="https://linkedin.com/in/vinicius-oliveira0007"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logoColor=58A6FF" alt="LinkedIn"></a>
+<a href="https://github.com/ViniciusOliveira0007"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="GitHub"></a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=ViniciusOliveira0007&style=for-the-badge&color=1F6FEB&label=VISUALIZA%C3%87%C3%95ES" alt="Visualizações do perfil">
+<img src="https://img.shields.io/github/followers/ViniciusOliveira0007?style=for-the-badge&color=1F6FEB&label=SEGUIDORES" alt="Seguidores">
+
+<br>
+
+<sub>CIÊNCIA DE DADOS // MACHINE LEARNING // VISUALIZAÇÃO // PYTHON</sub>
+
 </div>
+
+<br>
+
+---
+
+**`IDENTIDADE: ESTUDANTE DE CIÊNCIA DE DADOS`**
+
+**`FOCO: PRIMEIRA VAGA COMO CIENTISTA DE DADOS JÚNIOR`**
+
+Opa, como vai? Eu sou o Vinicius, estudante de Ciência de Dados na **Fatec Rubens Lara** e técnico em Desenvolvimento de Sistemas pela **Etec de Itanhaém**, direto do litoral sul de São Paulo.
+
+Gosto de transformar dados em algo que as pessoas consigam entender e usar. Se curtiu o que viu por aqui, bora trocar uma ideia! 💬
+
+---
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,pandas,mysql,aws,git,react,ts,js&perline=8" height="60" alt="tecnologias">
+
+**`TECNOLOGIAS`**
+
+<br>
+
+  <img src="https://img.shields.io/badge/PYTHON-0D1117?style=for-the-badge&logo=python&logoColor=58A6FF" alt="PYTHON">
+  <img src="https://img.shields.io/badge/PANDAS-0D1117?style=for-the-badge&logo=pandas&logoColor=58A6FF" alt="PANDAS">
+  <img src="https://img.shields.io/badge/MYSQL-0D1117?style=for-the-badge&logo=mysql&logoColor=58A6FF" alt="MYSQL">
+  <img src="https://img.shields.io/badge/STREAMLIT-0D1117?style=for-the-badge&logo=streamlit&logoColor=58A6FF" alt="STREAMLIT">
+  <img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logoColor=58A6FF" alt="AWS">
+  <img src="https://img.shields.io/badge/POWER%20BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=58A6FF" alt="POWER BI">
+  <img src="https://img.shields.io/badge/GIT-0D1117?style=for-the-badge&logo=git&logoColor=58A6FF" alt="GIT">
+  <img src="https://img.shields.io/badge/REACT-0D1117?style=for-the-badge&logo=react&logoColor=58A6FF" alt="REACT">
+  <img src="https://img.shields.io/badge/TYPESCRIPT-0D1117?style=for-the-badge&logo=typescript&logoColor=58A6FF" alt="TYPESCRIPT">
+  <img src="https://img.shields.io/badge/JAVASCRIPT-0D1117?style=for-the-badge&logo=javascript&logoColor=58A6FF" alt="JAVASCRIPT">
+
 </div>
 
-<h2 align="center">📊 Projetos em destaque</h2>
+<br>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://api.iconify.design/tabler:chart-line.svg?color=%23378ADD" width="26" height="26" alt="RU Forecast"><br>
-      <a href="https://github.com/ViniciusOliveira0007/NOME-DO-REPO"><b>RU Forecast</b></a><br>
-      <sub>Previsão de demanda para restaurante universitário</sub>
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://api.iconify.design/tabler:gas-station.svg?color=%23378ADD" width="26" height="26" alt="GasoPreview"><br>
-      <a href="https://github.com/ViniciusOliveira0007/NOME-DO-REPO"><b>GasoPreview</b></a><br>
-      <sub>Dashboard de preços de combustíveis da ANP</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://api.iconify.design/tabler:music.svg?color=%23378ADD" width="26" height="26" alt="Recomendador de músicas"><br>
-      <a href="https://github.com/ViniciusOliveira0007/NOME-DO-REPO"><b>Recomendador de músicas</b></a><br>
-      <sub>Sistema de recomendação com dataset do Kaggle</sub>
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://api.iconify.design/tabler:coin.svg?color=%23378ADD" width="26" height="26" alt="Tributação de investimentos"><br>
-      <a href="https://github.com/ViniciusOliveira0007/NOME-DO-REPO"><b>Tributação de investimentos</b></a><br>
-      <sub>Impostos e construção de carteira no Brasil</sub>
-    </td>
-  </tr>
-</table>
+---
 
-<h2 align="center">📈 Estatísticas</h2>
+<div align="center">
+
+**`PROJETOS EM DESTAQUE`**
+
+<br>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ViniciusOliveira0007&show_icons=true&hide_border=true" alt="Estatísticas do GitHub">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusOliveira0007&layout=compact&hide_border=true" alt="Linguagens mais usadas">
+  <a href="https://github.com/ViniciusOliveira0007/NOME-DO-REPO"><img src="assets/card-ru-forecast.svg" width="48%" alt="RU Forecast"></a>
+  <a href="https://github.com/ViniciusOliveira0007/NOME-DO-REPO"><img src="assets/card-gasopreview.svg" width="48%" alt="GasoPreview"></a>
+</p>
+<p align="center">
+  <a href="https://github.com/ViniciusOliveira0007/NOME-DO-REPO"><img src="assets/card-recomendador.svg" width="48%" alt="Recomendador de músicas"></a>
+  <a href="https://github.com/ViniciusOliveira0007/NOME-DO-REPO"><img src="assets/card-investimentos.svg" width="48%" alt="Tributação de investimentos"></a>
 </p>
 
-<p align="center">
-  <img src="https://count.getloli.com/@:ViniciusOliveira0007?theme=3d-num&padding=7&scale=1&align=top&pixelated=0&darkmode=auto" alt="Visualizações do perfil">
-</p>
+</div>
+
+---
+
+<div align="center">
+
+<sub>Feito com curiosidade, café e abas demais abertas.</sub>
+
+</div>
