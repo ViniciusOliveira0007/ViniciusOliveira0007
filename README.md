@@ -22,45 +22,26 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📈 RU Forecast</h3>
-      <p>Sistema de previsão de demanda para restaurante universitário.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS">
-      </p>
-      <a href="https://github.com/ViniciusOliveira0007/NOME-DO-REPO">Ver projeto →</a>
+      <img src="https://api.iconify.design/tabler:chart-line.svg?color=%23378ADD" width="26" height="26" alt="RU Forecast"><br>
+      <a href="https://github.com/ViniciusOliveira0007/NOME-DO-REPO"><b>RU Forecast</b></a><br>
+      <sub>Previsão de demanda para restaurante universitário</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>⛽ GasoPreview</h3>
-      <p>Dashboard interativo com dados públicos de preços de combustíveis da ANP.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
-      </p>
-      <a href="https://github.com/ViniciusOliveira0007/NOME-DO-REPO">Ver projeto →</a>
+      <img src="https://api.iconify.design/tabler:gas-station.svg?color=%23378ADD" width="26" height="26" alt="GasoPreview"><br>
+      <a href="https://github.com/ViniciusOliveira0007/NOME-DO-REPO"><b>GasoPreview</b></a><br>
+      <sub>Dashboard de preços de combustíveis da ANP</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎵 Recomendador de músicas</h3>
-      <p>Sistema de recomendação de músicas construído com um dataset do Kaggle.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
-        <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle">
-      </p>
-      <a href="https://github.com/ViniciusOliveira0007/NOME-DO-REPO">Ver projeto →</a>
+      <img src="https://api.iconify.design/tabler:music.svg?color=%23378ADD" width="26" height="26" alt="Recomendador de músicas"><br>
+      <a href="https://github.com/ViniciusOliveira0007/NOME-DO-REPO"><b>Recomendador de músicas</b></a><br>
+      <sub>Sistema de recomendação com dataset do Kaggle</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>💰 Tributação de investimentos</h3>
-      <p>Projeto integrador sobre tributação de investimentos no Brasil e construção de carteira.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-        <img src="https://img.shields.io/badge/An%C3%A1lise%20de%20dados-555555?style=flat-square" alt="Análise de dados">
-      </p>
-      <a href="https://github.com/ViniciusOliveira0007/NOME-DO-REPO">Ver projeto →</a>
+      <img src="https://api.iconify.design/tabler:coin.svg?color=%23378ADD" width="26" height="26" alt="Tributação de investimentos"><br>
+      <a href="https://github.com/ViniciusOliveira0007/NOME-DO-REPO"><b>Tributação de investimentos</b></a><br>
+      <sub>Impostos e construção de carteira no Brasil</sub>
     </td>
   </tr>
 </table>
