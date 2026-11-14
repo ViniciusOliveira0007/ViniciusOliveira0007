@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Banner" width="100%">
+<img src="assets/Banner_arvore.gif" alt="Banner" width="100%">
 
 <br>
 
@@ -10,6 +10,7 @@
 
 <a href="https://linkedin.com/in/vinicius-oliveira0007"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logoColor=58A6FF" alt="LinkedIn"></a>
 <a href="https://github.com/ViniciusOliveira0007"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="GitHub"></a>
+<a href="mailto:viniciusoliveiraconstantino@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" alt="E-mail"></a>
 
 <br><br>
 
@@ -48,10 +49,16 @@ Gosto de transformar dados em algo que as pessoas consigam entender e usar. Se c
   <img src="https://img.shields.io/badge/STREAMLIT-0D1117?style=for-the-badge&logo=streamlit&logoColor=58A6FF" alt="STREAMLIT">
   <img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logoColor=58A6FF" alt="AWS">
   <img src="https://img.shields.io/badge/POWER%20BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=58A6FF" alt="POWER BI">
-  <img src="https://img.shields.io/badge/GIT-0D1117?style=for-the-badge&logo=git&logoColor=58A6FF" alt="GIT">
-  <img src="https://img.shields.io/badge/REACT-0D1117?style=for-the-badge&logo=react&logoColor=58A6FF" alt="REACT">
-  <img src="https://img.shields.io/badge/TYPESCRIPT-0D1117?style=for-the-badge&logo=typescript&logoColor=58A6FF" alt="TYPESCRIPT">
+  <img src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=58A6FF" alt="C#">
+  <img src="https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=cplusplus&logoColor=58A6FF" alt="C++">
+  <img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=58A6FF" alt="PHP">
   <img src="https://img.shields.io/badge/JAVASCRIPT-0D1117?style=for-the-badge&logo=javascript&logoColor=58A6FF" alt="JAVASCRIPT">
+  <img src="https://img.shields.io/badge/TYPESCRIPT-0D1117?style=for-the-badge&logo=typescript&logoColor=58A6FF" alt="TYPESCRIPT">
+  <img src="https://img.shields.io/badge/REACT-0D1117?style=for-the-badge&logo=react&logoColor=58A6FF" alt="REACT">
+  <img src="https://img.shields.io/badge/REACT%20NATIVE-0D1117?style=for-the-badge&logo=react&logoColor=58A6FF" alt="REACT NATIVE">
+  <img src="https://img.shields.io/badge/EXPO-0D1117?style=for-the-badge&logo=expo&logoColor=58A6FF" alt="EXPO">
+  <img src="https://img.shields.io/badge/INSOMNIA-0D1117?style=for-the-badge&logo=insomnia&logoColor=58A6FF" alt="INSOMNIA">
+  <img src="https://img.shields.io/badge/GIT-0D1117?style=for-the-badge&logo=git&logoColor=58A6FF" alt="GIT">
 
 </div>
 
