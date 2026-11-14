@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/8bit_banner.gif" alt="Banner" width="100%" height="30%">
+<img src="assets/8bit_paisagem.gif" alt="Banner" width="100%" height="30%">
 
 <br>
 
