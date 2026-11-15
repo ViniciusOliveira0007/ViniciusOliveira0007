@@ -73,12 +73,12 @@ Gosto de transformar dados em algo que as pessoas consigam entender e usar. Se c
 <br>
 
 <p align="center">
-  <a href="https://github.com/ViniciusOliveira0007/NOME-DO-REPO"><img src="assets/card-ru-forecast.svg" width="48%" alt="RU Forecast"></a>
-  <a href="https://github.com/ViniciusOliveira0007/NOME-DO-REPO"><img src="assets/card-gasopreview.svg" width="48%" alt="GasoPreview"></a>
+  <a href="https://github.com/ViniciusOliveira0007/Refeit-rio-Universit-rio"><img src="assets/card-ru-forecast.svg" width="48%" alt="RU Forecast"></a>
+  <a href="https://github.com/ViniciusOliveira0007/PreviewGaso"><img src="assets/card-gasopreview.svg" width="48%" alt="GasoPreview"></a>
 </p>
 <p align="center">
   <a href="https://github.com/ViniciusOliveira0007/NOME-DO-REPO"><img src="assets/card-recomendador.svg" width="48%" alt="Recomendador de músicas"></a>
-  <a href="https://github.com/ViniciusOliveira0007/NOME-DO-REPO"><img src="assets/card-investimentos.svg" width="48%" alt="Tributação de investimentos"></a>
+  <a href="https://github.com/ViniciusOliveira0007/Markowitz"><img src="assets/card-investimentos.svg" width="48%" alt="Tributação de investimentos"></a>
 </p>
 
 </div>
